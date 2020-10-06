@@ -1,2 +1,2 @@
-# C20
-An algorithm to detect collision
+# p5.play-boilerplate
+Boiler plate for p5.play
